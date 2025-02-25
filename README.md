@@ -60,3 +60,11 @@ PixelGenie is released under the MIT License.
 ---
 💡 **Developed with ❤️ for pixelgenie, by blucomtechnologies.com**
 
+
+
+git status
+git add --all
+git commit -m "v2.1.5"
+git push -u origin main
+
+git commit --amend
